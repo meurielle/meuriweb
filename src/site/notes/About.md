@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/"}
+{"dg-publish":true,"permalink":"/about/","noteIcon":"☁︎"}
 ---
 
 [IMAGEM GRANDONA]

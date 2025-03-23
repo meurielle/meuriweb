@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meuri-elle/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/meuri-elle/","tags":["gardenEntry"],"noteIcon":"☁︎"}
 ---
 
 ![Asset 4@4x.png](/img/user/images/Asset%204@4x.png)

@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/graphic-design/"}
+{"dg-publish":true,"permalink":"/graphic-design/","noteIcon":"☁︎"}
 ---
 

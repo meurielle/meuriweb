@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/books-and-publishing/"}
+{"dg-publish":true,"permalink":"/books-and-publishing/","noteIcon":"☁︎"}
 ---
 

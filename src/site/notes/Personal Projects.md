@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/"}
+{"dg-publish":true,"permalink":"/personal-projects/","noteIcon":"☁︎"}
 ---
 
 # Personal projects

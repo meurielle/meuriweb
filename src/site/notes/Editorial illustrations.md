@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-illustrations/"}
+{"dg-publish":true,"permalink":"/editorial-illustrations/","noteIcon":"☁︎"}
 ---
 
